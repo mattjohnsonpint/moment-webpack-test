@@ -1,0 +1,14 @@
+{
+  "name": "WebPackTest",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
